@@ -1,3 +1,3 @@
 # Repository_Chirilusa
 
-Curs Python
+Curs Python Atelierul de programare Google
