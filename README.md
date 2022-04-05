@@ -1,3 +1,3 @@
-# First_Ropository_Chirilusa
+# Repository_Chirilusa
 
 Curs Python
